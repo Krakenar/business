@@ -1,6 +1,6 @@
 # 🐙 Krakenar by Logitar
 
-Coming soon…
+Krakenar is a tool suite aiming at handling non-business requirements, allowing developers to focus on real, business requirements.
 
 ## Vision
 
