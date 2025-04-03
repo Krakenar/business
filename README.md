@@ -1,6 +1,6 @@
 # 🐙 Krakenar by Logitar
 
-Krakenar is a tool suite aiming at handling non-business requirements, allowing developers to focus on real, business requirements.
+Krakenar is a tool suite aiming at handling non-business software requirements, allowing developers to focus on real, domain business requirements.
 
 ## Vision
 
@@ -10,11 +10,11 @@ In the future, Logitar may also provide a Cloud, SaaS offering for Krakenar, sec
 
 ## Business Case
 
-In today’s world, decentralization is everywhere. In a typical microservice ecosystem, you’ll have your business microservices, and a bunch of microservices to handle authentication, authorization, contents (CMS) for blogs and static contents, e-commerce, messaging, etc.
+In today’s world, decentralization is everywhere. In a typical microservice ecosystem, you’ll have your domain business microservices, and a bunch of microservices to handle authentication, authorization, contents (CMS) for blogs and static contents, e-commerce, messaging, etc.
 
 This may not be an issue for big enterprises and commercial projects, but for open-source developers and small teams, this can be a blocker and occur big costs.
 
-Krakenar aims at providing a suite of centralized tools to handle those non-business requirements, allowing developers to focus on real, business requirements, the alternative being a web of microservices to handle those non-business requirements.
+Krakenar aims at providing a suite of centralized tools to handle those non-business requirements, allowing developers to focus on real, domain business requirements, the alternative being a web of microservices to handle those non-business requirements.
 
 From the start, Krakenar will be a free, open-source project, and will not have any revenue. If it becomes a Cloud, SaaS offering, its pricing would have to be competitive with alternatives. It should also be modular, allowing potential customers to pay the right price only for the modules they intend on using.
 
